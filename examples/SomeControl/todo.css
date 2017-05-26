@@ -1,0 +1,10 @@
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.error-message
+{
+  color: red;
+  clear: both;
+}
